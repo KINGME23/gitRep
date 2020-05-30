@@ -1,1 +1,2 @@
 this is test.txt file.
+another partner operate it.
