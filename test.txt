@@ -1,2 +1,6 @@
 this is test.txt file.
+<<<<<<< HEAD
 pan operates it.
+=======
+another partner operate it.
+>>>>>>> b54e09260a6d158e56f393f7066500422009d1fd
